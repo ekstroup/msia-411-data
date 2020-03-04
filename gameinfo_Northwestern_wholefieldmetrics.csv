@@ -1,0 +1,13 @@
+week,id,season,season_type,start_date,venue,venue_id,conference_game,neutral_site,teamCategory,opponent_team,average_yds_gained,pass_completion_rate,most_frequent_rusher,most_frequent_receiver
+1,401112245,2019,regular,2019-08-31T20:00:00.000Z,Stanford Stadium,3940,FALSE,FALSE,away,Stanford,5.364865,0.518518519,Isaiah Bowser,Bennett Skowronek 
+3,401112246,2019,regular,2019-09-14T19:30:00.000Z,Ryan Field,3911,FALSE,FALSE,home,UNLV,7.234694,0.52,Drake Anderson,Bennett Skowronek
+4,401112215,2019,regular,2019-09-21T16:00:00.000Z,Ryan Field,3911,TRUE,FALSE,home,Michigan State,3.868687,0.583333333,Drake Anderson,Riley Lees
+5,401112247,2019,regular,2019-09-28T16:00:00.000Z,Camp Randall Stadium,347,TRUE,FALSE,away,Wisconsin,3.368932,0.43902439,Drake Anderson,Riley Lees
+6,401112242,2019,regular,2019-10-05T20:00:00.000Z,Memorial Stadium,3834,TRUE,FALSE,away,Nebraska,4.316327,0.612903226,Aidan Smith,Riley Lees
+8,401112248,2019,regular,2019-10-19T00:30:00.000Z,Ryan Field,3911,TRUE,FALSE,home,Ohio State,4.655172,0.380952381,Isaiah Bowser,Riley Lees
+9,401112197,2019,regular,2019-10-26T16:00:00.000Z,Ryan Field,3911,TRUE,FALSE,home,Iowa,3.092105,0.580645161,Isaiah Bowser,Ramaud Chiaokhiao-Bowman
+10,401112165,2019,regular,2019-11-02T23:00:00.000Z,Memorial Stadium,3830,TRUE,FALSE,away,Indiana,2.925,0.387096774,Drake Anderson and Jesse Brown,Riley Lees
+11,401112249,2019,regular,2019-11-09T17:00:00.000Z,Ryan Field,3911,TRUE,FALSE,home,Purdue,4.84375,0.612903226,Drake Anderson and Kyric McGowan,Riley Lees
+12,401112250,2019,regular,2019-11-16T17:00:00.000Z,Ryan Field,3911,FALSE,FALSE,home,UMass,7.120482,0.692307692,Evan Hull,Riley Lees
+13,401112236,2019,regular,2019-11-23T17:00:00.000Z,Ryan Field,3911,TRUE,FALSE,home,Minnesota,3.556962,0.666666667,Evan Hull,Riley Lees
+14,401112156,2019,regular,2019-11-30T17:00:00.000Z,Memorial Stadium,3832,TRUE,FALSE,away,Illinois,5.755102,0.70,Drake Anderson,Riley Lees
